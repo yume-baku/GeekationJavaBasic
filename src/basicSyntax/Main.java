@@ -4,10 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-
 		// Geek君呼出
 		GeekIntroduction gi = new GeekIntroduction();
-
 
 		// 挨拶メソッド
 		int age = 20;
